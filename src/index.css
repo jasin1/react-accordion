@@ -3,6 +3,8 @@
   line-height: 1.5;
   font-weight: 400;
 
+  --color-bg: #E9E9E9;
+
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -28,6 +30,7 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color: var(--color-bg);
 }
 
 h1 {
