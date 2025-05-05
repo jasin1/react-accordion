@@ -7,6 +7,7 @@
   /* align-items: flex-start; */
   overflow: hidden;
   margin-bottom: 1rem;
+  max-width: 800px;
 }
 
 .Acc-header{
@@ -17,9 +18,9 @@
   cursor: pointer;
 }
 
-.Acc-title{
+/* .Acc-title{
   margin-bottom: 1rem;
-}
+} */
 
 .Acc-content{
   /* max-height: 0; */
